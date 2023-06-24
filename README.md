@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Leandro
 #### I am a programming student at the UTN (National Technological University of Argentina)
-![I am a programming student at the UTN (National Technological University of Argentina)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a programming student at the UTN (National Technological University of Argentina)]
 
 I am passionate about development and am looking for opportunities to put my skills to use and gain experience on challenging projects. I have knowledge of c, java and a bit of Assembler for Pic 16f84 microcontrollers, and would love to contribute to exciting projects. If you are looking for someone with enthusiasm and motivation to join your team, don't hesitate to contact me! I am open to collaborations, internships or part-time projects."
 
