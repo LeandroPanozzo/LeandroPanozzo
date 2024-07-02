@@ -7,7 +7,7 @@ I am passionate about development and am looking for opportunities to put my ski
 Skills: C/ JAVA / ASSEMBLER/ C#/ SQL
 
 - 🌱 I’m currently learning Universidad Tecnologica Nacional  
-- 📫 How to reach me: leandropanozzo1@gmail.com 
+- 📫 How to reach me: leandrowork1@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LeandroPanozzo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/leandro_panozzo/)  
